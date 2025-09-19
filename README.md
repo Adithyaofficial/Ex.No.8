@@ -1,4 +1,6 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Exp 8:  EXPLORATION OF PROMPTING TECHNIQUES FOR AUDIO GENERATION - ( For a short film, you need the sound of a glass bottle shattering on a wooden floor. How would you craft the prompt to get realistic audio with depth?)
+
+# Experiment: Explore how various prompting techniques can  be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model.
 
 # Date : 19.09.2025
 # Reg. No : 212223220002
